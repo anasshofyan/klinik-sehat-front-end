@@ -1,0 +1,52 @@
+ *{
+    margin: 0;
+    padding: 0;
+}
+
+.bg-banner{
+    height: 730px;
+    background-size: cover;
+    border-radius: 0px;
+    background-position: center;
+    background-image: url('../img/bg-banner.png');
+}
+
+.bg-welcome{
+    height: 730px;
+    background-size: cover;
+    border-radius: 0px;
+    background-position: center;
+    background-image: url('../img/bg-welcome.png');
+}
+
+.bg-antrian{
+    height: 730px;
+    background-size: cover;
+    border-radius: 0px;
+    background-position: center;
+    background-image: url('../img/bg-antrian.png');
+}
+
+.m-top{
+    position: absolute;
+    margin-top: 200px ;
+}
+
+
+.m-top-1{
+    margin-top: 100px ;
+}
+
+.m-top-2{
+    margin-top: 150px ;
+}
+
+.body-card{
+    width: 400px;
+    height: 170px;
+}
+
+.btn-white{
+    background-color: white;
+    color: black;
+}
